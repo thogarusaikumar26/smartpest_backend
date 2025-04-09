@@ -1,0 +1,2 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+smartpest_backend/models/* filter=lfs diff=lfs merge=lfs -text
