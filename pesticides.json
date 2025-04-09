@@ -1,0 +1,2723 @@
+[
+    {
+      "pest_name": "Adristyrannus",
+      "pesticides": [
+        {
+          "name": "Acephate",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Wear protective clothing, avoid inhalation, keep away from food"
+        },
+        {
+          "name": "Malathion",
+          "dosage": "1.5-3 ml/L",
+          "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        },
+        {
+          "name": "Permethrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Avoid water sources, wear mask, keep out of reach of children"
+        }
+      ]
+    },
+    {
+      "pest_name": "Aleurocanthus_spiniferus",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Acetamiprid",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Use protective gear, avoid spraying in windy conditions"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        }
+      ]
+    },
+    {
+      "pest_name": "alfalfa_plant_bug",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Lambda-cyhalothrin",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        }
+      ]
+    },
+    {
+      "pest_name": "alfalfa_seed_chalcid",
+      "pesticides": [
+        {
+          "name": "Azadirachtin",
+          "dosage": "2-5 ml/L",
+          "safety_precautions": "Non-toxic to humans, avoid overuse near beneficial insects"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        }
+      ]
+    },
+    {
+      "pest_name": "alfalfa_weevil",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Cyfluthrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Avoid skin contact, use protective eyewear"
+        },
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        }
+      ]
+    },
+    {
+      "pest_name": "Ampelophaga",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Methoxyfenozide",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Low toxicity, wear gloves, avoid overuse"
+        },
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        }
+      ]
+    },
+    {
+      "pest_name": "aphids",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Acetamiprid",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Use protective gear, avoid spraying in windy conditions"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        }
+      ]
+    },
+    {
+      "pest_name": "Aphis citricola_Vander_Goot",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Thiacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear protective clothing, avoid spraying near water"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        }
+      ]
+    },
+    {
+      "pest_name": "Apolygus_lucorum",
+      "pesticides": [
+        {
+          "name": "Lambda-cyhalothrin",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+      ]
+    },
+    {
+      "pest_name": "army_worm",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Lambda-cyhalothrin",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        },
+        {
+          "name": "Bifenthrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid water sources, toxic to fish"
+        }
+      ]
+    },
+    {
+      "pest_name": "asiatic_rice_borer",
+      "pesticides": [
+        {
+          "name": "Emamectin benzoate",
+          "dosage": "0.2-0.5 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity to humans"
+        },
+        {
+          "name": "Fipronil",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Highly toxic to bees, wear mask, avoid water bodies"
+        },
+        {
+          "name": "Chlorantraniliprole",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Low toxicity, wear protective gear, avoid overuse"
+        }
+      ]
+    },
+    {
+      "pest_name": "Bactrocera_tsuneonis",
+      "pesticides": [
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        },
+        {
+          "name": "Malathion",
+          "dosage": "1.5-3 ml/L",
+          "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        },
+        {
+          "name": "Dimethoate",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Wear respirator, avoid skin contact, toxic to bees"
+        }
+      ]
+    },
+    {
+      "pest_name": "beet_army_worm",
+      "pesticides": [
+        {
+          "name": "Bacillus thuringiensis",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Safe for humans, avoid overuse near beneficial insects"
+        },
+        {
+          "name": "Methoxyfenozide",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Low toxicity, wear gloves, avoid overuse"
+        },
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        }
+      ]
+    },
+    {
+      "pest_name": "beet_fly",
+      "pesticides": [
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Methomyl",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid skin contact"
+        },
+        {
+          "name": "Dimethoate",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Wear respirator, avoid skin contact, toxic to bees"
+        }
+      ]
+    },
+    {
+      "pest_name": "Beet_spot_flies",
+      "pesticides": [
+        {
+          "name": "Dimethoate",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Wear respirator, avoid skin contact, toxic to bees"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        }
+      ]
+    },
+    {
+      "pest_name": "beet_weevil",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Diazinon",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Wear mask, avoid water contamination, toxic to birds"
+        }
+      ]
+    },
+    {
+      "pest_name": "beetle",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Malathion",
+          "dosage": "1.5-3 ml/L",
+          "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        },
+        {
+          "name": "Cypermethrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Avoid water sources, wear mask, toxic to fish"
+        }
+      ]
+    },
+    {
+      "pest_name": "bird_cherry-oataphid",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        },
+        {
+          "name": "Dinotefuran",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear protective gear, avoid spraying near bees"
+        },
+        {
+          "name": "Acetamiprid",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Use protective gear, avoid spraying in windy conditions"
+        }
+      ]
+    },
+    {
+      "pest_name": "black_cutworm",
+      "pesticides": [
+        {
+          "name": "Chlorantraniliprole",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Low toxicity, wear protective gear, avoid overuse"
+        },
+        {
+          "name": "Flubendiamide",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low environmental impact"
+        },
+        {
+          "name": "Emamectin benzoate",
+          "dosage": "0.2-0.5 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity to humans"
+        }
+      ]
+    },
+    {
+      "pest_name": "Black_hairy",
+      "pesticides": [
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Malathion",
+          "dosage": "1.5-3 ml/L",
+          "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        },
+        {
+          "name": "Permethrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Avoid water sources, wear mask, keep out of reach of children"
+        },
+        {
+          "name": "Cyfluthrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Avoid skin contact, use protective eyewear"
+        }
+      ]
+    },
+    {
+      "pest_name": "blister_beetle",
+      "pesticides": [
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Malathion",
+          "dosage": "1.5-3 ml/L",
+          "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        },
+        {
+          "name": "Pyrethrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid overuse, safe for organic use"
+        },
+        {
+          "name": "Permethrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Avoid water sources, wear mask, keep out of reach of children"
+        }
+      ]
+    },
+    {
+      "pest_name": "bollworm",
+      "pesticides": [
+        {
+          "name": "Chlorantraniliprole",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Low toxicity, wear protective gear, avoid overuse"
+        },
+        {
+          "name": "Emamectin benzoate",
+          "dosage": "0.2-0.5 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity to humans"
+        },
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        },
+        {
+          "name": "Indoxacarb",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, low toxicity"
+        }
+      ]
+    },
+    {
+      "pest_name": "Brevipoalpus_lewisi_McGregor",
+      "pesticides": [
+        {
+          "name": "Abamectin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        },
+        {
+          "name": "Bifenazate",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, safe for beneficial insects"
+        },
+        {
+          "name": "Fenpyroximate",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear protective gear, avoid water contamination"
+        },
+        {
+          "name": "Spiromesifen",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, low toxicity"
+        }
+      ]
+    },
+    {
+      "pest_name": "brown_plant_hopper",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Buprofezin",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        }
+      ]
+    },
+    {
+      "pest_name": "cabbage_army_worm",
+      "pesticides": [
+        {
+          "name": "Bacillus thuringiensis",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Safe for humans, avoid overuse near beneficial insects"
+        },
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        },
+        {
+          "name": "Methomyl",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid skin contact"
+        },
+        {
+          "name": "Chlorantraniliprole",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Low toxicity, wear protective gear, avoid overuse"
+        }
+      ]
+    },
+    {
+      "pest_name": "cerodonta_denticornis",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Thiacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear protective clothing, avoid spraying near water"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        },
+        {
+          "name": "Dinotefuran",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear protective gear, avoid spraying near bees"
+        }
+      ]
+    },
+    {
+      "pest_name": "Ceroplastes_rubens",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Acetamiprid",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Use protective gear, avoid spraying in windy conditions"
+        },
+        {
+          "name": "Buprofezin",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        }
+      ]
+    },
+    {
+      "pest_name": "Chlumetia_transversa",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Cypermethrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Avoid water sources, wear mask, toxic to fish"
+        },
+        {
+          "name": "Acetamiprid",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Use protective gear, avoid spraying in windy conditions"
+        }
+      ]
+    },
+    {
+      "pest_name": "Chrysomphalus_aonidum",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Abamectin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        },
+        {
+          "name": "Acetamiprid",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Use protective gear, avoid spraying in windy conditions"
+        },
+        {
+          "name": "Buprofezin",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity"
+        }
+      ]
+    },
+    {
+      "pest_name": "Cicadella_viridis",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Thiacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear protective clothing, avoid spraying near water"
+        },
+        {
+          "name": "Dinotefuran",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear protective gear, avoid spraying near bees"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        }
+      ]
+    },
+    {
+      "pest_name": "Cicadellidae",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Thiacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear protective clothing, avoid spraying near water"
+        },
+        {
+          "name": "Dinotefuran",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear protective gear, avoid spraying near bees"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        }
+      ]
+    },
+    {
+      "pest_name": "Colomerus_vitis",
+      "pesticides": [
+        {
+          "name": "Bifenazate",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, safe for beneficial insects"
+        },
+        {
+          "name": "Fenpyroximate",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear protective gear, avoid water contamination"
+        },
+        {
+          "name": "Abamectin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        },
+        {
+          "name": "Hexythiazox",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, low toxicity"
+        }
+      ]
+    },
+    {
+      "pest_name": "corn_borer",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Emamectin benzoate",
+          "dosage": "0.2-0.5 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity to humans"
+        },
+        {
+          "name": "Lambda-cyhalothrin",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        },
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        }
+      ]
+    },
+    {
+      "pest_name": "corn_earworm",
+      "pesticides": [
+        {
+          "name": "Bacillus thuringiensis",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Safe for humans, avoid overuse near beneficial insects"
+        },
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Cypermethrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Avoid water sources, wear mask, toxic to fish"
+        }
+      ]
+    },
+    {
+      "pest_name": "cutworm",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Diazinon",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Wear mask, avoid water contamination, toxic to birds"
+        },
+        {
+          "name": "Methomyl",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid skin contact"
+        }
+      ]
+    },
+    {
+      "pest_name": "Dacus_dorsalis(Hendel)",
+      "pesticides": [
+        {
+          "name": "Malathion",
+          "dosage": "1.5-3 ml/L",
+          "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        },
+        {
+          "name": "Diazinon",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Wear mask, avoid water contamination, toxic to birds"
+        },
+        {
+          "name": "Fenthion",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Wear respirator, avoid skin contact, toxic to wildlife"
+        }
+      ]
+    },
+    {
+      "pest_name": "Dasineura_sp",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Acephate",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Wear protective clothing, avoid inhalation, keep away from food"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        }
+      ]
+    },
+    {
+      "pest_name": "Deporaus_marginatus_Pascoe",
+      "pesticides": [
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+      ]
+    },
+    {
+      "pest_name": "english_grain_aphid",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Lambda-cyhalothrin",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        },
+        {
+          "name": "Pyrethroids",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water sources, toxic to fish"
+        }
+      ]
+    },
+    {
+      "pest_name": "Erythroneura_apicalis",
+      "pesticides": [
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Diazinon",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Wear mask, avoid water contamination, toxic to birds"
+        },
+        {
+          "name": "Malathion",
+          "dosage": "1.5-3 ml/L",
+          "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        }
+      ]
+    },
+    {
+      "pest_name": "fall_armyworm",
+      "pesticides": [
+        {
+          "name": "Bacillus thuringiensis",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Safe for humans, avoid overuse near beneficial insects"
+        },
+        {
+          "name": "Chlorantraniliprole",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Low toxicity, wear protective gear, avoid overuse"
+        },
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        }
+      ]
+    },
+    {
+      "pest_name": "FieldCricket",
+      "pesticides": [
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Permethrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Avoid water sources, wear mask, keep out of reach of children"
+        },
+        {
+          "name": "Cyfluthrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Avoid skin contact, use protective eyewear"
+        }
+      ]
+    },
+    {
+      "pest_name": "flax_budworm",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Methomyl",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid skin contact"
+        },
+        {
+          "name": "Pyrethroids",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water sources, toxic to fish"
+        }
+      ]
+    },
+    {
+      "pest_name": "flea_beetle",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        },
+        {
+          "name": "Pyrethroids",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water sources, toxic to fish"
+        }
+      ]
+    },
+    {
+      "pest_name": "Fruit_piercing_moth",
+      "pesticides": [
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Malathion",
+          "dosage": "1.5-3 ml/L",
+          "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        },
+        {
+          "name": "Pyrethroids",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water sources, toxic to fish"
+        }
+      ]
+    },
+    {
+      "pest_name": "Gall_fly",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Malathion",
+          "dosage": "1.5-3 ml/L",
+          "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        },
+        {
+          "name": "Methomyl",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid skin contact"
+        }
+      ]
+    },
+    {
+      "pest_name": "grain_spreader_thrips",
+      "pesticides": [
+        {
+          "name": "Acephate",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Wear protective clothing, avoid inhalation, keep away from food"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        }
+      ]
+    },
+    {
+      "pest_name": "grasshopper",
+      "pesticides": [
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Malathion",
+          "dosage": "1.5-3 ml/L",
+          "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        },
+        {
+          "name": "Pyrethroids",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water sources, toxic to fish"
+        }
+      ]
+    },
+    {
+      "pest_name": "green_bug",
+      "pesticides": [
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Malathion",
+          "dosage": "1.5-3 ml/L",
+          "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        },
+        {
+          "name": "Pyrethroids",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water sources, toxic to fish"
+        }
+      ]
+    },
+    {
+      "pest_name": "grub",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        }
+      ]
+    },
+    {
+      "pest_name": "Icerya_purchasi_Maskell",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Dinotefuran",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear protective gear, avoid spraying near bees"
+        },
+        {
+          "name": "Acetamiprid",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Use protective gear, avoid spraying in windy conditions"
+        }
+      ]
+    },
+    {
+      "pest_name": "Indigo_caterpillar",
+      "pesticides": [
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Acephate",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Wear protective clothing, avoid inhalation, keep away from food"
+        }
+      ]
+    },
+    {
+      "pest_name": "Jute_aphid",
+      "pesticides": [
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Clothianidin",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear protective gear, avoid spraying near bees"
+        }
+      ]
+    },
+    {
+      "pest_name": "Jute_hairy",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Lambda-cyhalothrin",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        }
+      ]
+    },
+    {
+      "pest_name": "Jute_red_mite",
+      "pesticides": [
+        {
+          "name": "Bifenthrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid water sources, toxic to fish"
+        },
+        {
+          "name": "Spiromesifen",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, low toxicity"
+        },
+        {
+          "name": "Fenpropathrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid skin contact, toxic to bees"
+        }
+      ]
+    },
+    {
+      "pest_name": "Jute_semilooper",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Emamectin benzoate",
+          "dosage": "0.2-0.5 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity to humans"
+        },
+        {
+          "name": "Indoxacarb",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, low toxicity"
+        }
+      ]
+    },
+    {
+      "pest_name": "Jute_stem_girdler",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Carbofuran",
+          "dosage": "2-3 g/L",
+          "safety_precautions": "Highly toxic, wear gloves, avoid water bodies"
+        },
+        {
+          "name": "Phorate",
+          "dosage": "2-3 g/L",
+          "safety_precautions": "Extremely toxic, wear respirator, avoid skin contact"
+        }
+      ]
+    },
+    {
+      "pest_name": "JuteStemWeevil",
+      "pesticides": [
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Lambda-cyhalothrin",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        }
+      ]
+    },
+    {
+      "pest_name": "Jute_stick_insect",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        }
+      ]
+    },
+    {
+      "pest_name": "large_cutworm",
+      "pesticides": [
+        {
+          "name": "Bacillus thuringiensis",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Safe for humans, avoid overuse near beneficial insects"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Lambda-cyhalothrin",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        }
+      ]
+    },
+    {
+      "pest_name": "Lawana_imitataMelichar",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Buprofezin",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        }
+      ]
+    },
+    {
+      "pest_name": "Leaf_beetle",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Acephate",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Wear protective clothing, avoid inhalation, keep away from food"
+        }
+      ]
+    },
+    {
+      "pest_name": "legume_blister_beetle",
+      "pesticides": [
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Lambda-cyhalothrin",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        }
+      ]
+    },
+    {
+      "pest_name": "Limacodidae",
+      "pesticides": [
+        {
+          "name": "Bacillus thuringiensis",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Safe for humans, avoid overuse near beneficial insects"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        }
+      ]
+    },
+    {
+      "pest_name": "Locust",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Deltamethrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water sources, highly toxic to fish"
+        },
+        {
+          "name": "Fenitrothion",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Wear respirator, avoid skin contact, toxic to birds"
+        }
+      ]
+    },
+    {
+      "pest_name": "Locustoidea",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Deltamethrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water sources, highly toxic to fish"
+        },
+        {
+          "name": "Fenitrothion",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Wear respirator, avoid skin contact, toxic to birds"
+        }
+      ]
+    },
+    {
+      "pest_name": "longlegged_spider_mite",
+      "pesticides": [
+        {
+          "name": "Abamectin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        },
+        {
+          "name": "Bifenazate",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, safe for beneficial insects"
+        },
+        {
+          "name": "Chlorfenapyr",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear protective gear, avoid water contamination"
+        }
+      ]
+    },
+    {
+      "pest_name": "Lycorma_delicatula",
+      "pesticides": [
+        {
+          "name": "Dinotefuran",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear protective gear, avoid spraying near bees"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        }
+      ]
+    },
+    {
+      "pest_name": "lytta_polita",
+      "pesticides": [
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Diazinon",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Wear mask, avoid water contamination, toxic to birds"
+        },
+        {
+          "name": "Malathion",
+          "dosage": "1.5-3 ml/L",
+          "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        }
+      ]
+    },
+    {
+      "pest_name": "Mango_flat_beak_leafhopper",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        },
+        {
+          "name": "Dinotefuran",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear protective gear, avoid spraying near bees"
+        }
+      ]
+    },
+    {
+      "pest_name": "meadow_moth",
+      "pesticides": [
+        {
+          "name": "Bacillus thuringiensis",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Safe for humans, avoid overuse near beneficial insects"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Lambda-cyhalothrin",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        }
+      ]
+    },
+    {
+      "pest_name": "Mealybug",
+      "pesticides": [
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Clothianidin",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear protective gear, avoid spraying near bees"
+        },
+        {
+          "name": "Thiamethoxam",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        }
+      ]
+    },
+    {
+      "pest_name": "Miridae",
+      "pesticides": [
+        {
+          "name": "Buprofezin",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity"
+        },
+        {
+          "name": "Clothianidin",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear protective gear, avoid spraying near bees"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+      ]
+    },
+    {
+      "pest_name": "mites",
+      "pesticides": [
+        {
+          "name": "Abamectin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        },
+        {
+          "name": "Bifenazate",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, safe for beneficial insects"
+        },
+        {
+          "name": "Chlorfenapyr",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear protective gear, avoid water contamination"
+        }
+      ]
+    },
+    {
+      "pest_name": "mole_cricket",
+      "pesticides": [
+        {
+          "name": "Bifenthrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid water sources, toxic to fish"
+        },
+        {
+          "name": "Carbaryl",
+          "dosage": "2-4 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+      ]
+    },
+    {
+      "pest_name": "Nipaecoccus_vastalor",
+      "pesticides": [
+        {
+          "name": "Acetamiprid",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Use protective gear, avoid spraying in windy conditions"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Dinotefuran",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear protective gear, avoid spraying near bees"
+        }
+      ]
+    },
+    {
+      "pest_name": "odontothrips_loti",
+      "pesticides": [
+        {
+          "name": "Abamectin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        },
+        {
+          "name": "Emamectin benzoate",
+          "dosage": "0.2-0.5 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity to humans"
+        },
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        }
+      ]
+    },
+    {
+      "pest_name": "oides_decempunctata",
+      "pesticides": [
+        {
+          "name": "Abamectin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        },
+        {
+          "name": "Chlorfenapyr",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear protective gear, avoid water contamination"
+        },
+        {
+          "name": "Pyridaben",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, toxic to fish"
+        }
+      ]
+    },
+    {
+      "pest_name": "paddy_stem_maggot",
+      "pesticides": [
+        {
+          "name": "Carbofuran",
+          "dosage": "2-3 g/L",
+          "safety_precautions": "Highly toxic, wear gloves, avoid water bodies"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Diazinon",
+          "dosage": "1-2 ml/L",
+          "safety_precautions": "Wear mask, avoid water contamination, toxic to birds"
+        }
+      ]
+    },
+    {
+      "pest_name": "Panonchus_citriMcGregor",
+      "pesticides": [
+        {
+          "name": "Bifenazate",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, safe for beneficial insects"
+        },
+        {
+          "name": "Spirodiclofen",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, low toxicity"
+        },
+        {
+          "name": "Pyridaben",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, toxic to fish"
+        }
+      ]
+    },
+    {
+      "pest_name": "Papilio_xuthus",
+      "pesticides": [
+        {
+          "name": "Bacillus thuringiensis",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Safe for humans, avoid overuse near beneficial insects"
+        },
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        },
+        {
+          "name": "Methomyl",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid skin contact"
+        }
+      ]
+    },
+    {
+      "pest_name": "parathrene_regalis",
+      "pesticides": [
+        {
+          "name": "Bacillus thuringiensis",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Safe for humans, avoid overuse near beneficial insects"
+        },
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+      ]
+    },
+    {
+      "pest_name": "Parlatoria_zizyphusLucus",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Spirotetramat",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity"
+        }
+      ]
+    },
+    {
+      "pest_name": "peach_borer",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Lambda-cyhalothrin",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        }
+      ]
+    },
+    {
+      "pest_name": "penthaleus_major",
+      "pesticides": [
+        {
+          "name": "Chlorpyrifos",
+          "dosage": "2-3 ml/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+          "name": "Fenpropathrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid skin contact, toxic to bees"
+        },
+        {
+          "name": "Lambda-cyhalothrin",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        }
+      ]
+    },
+    {
+      "pest_name": "Phyllocnistis_citrellaStainton",
+      "pesticides": [
+        {
+          "name": "Abamectin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        },
+        {
+          "name": "Emamectin benzoate",
+          "dosage": "0.2-0.5 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity to humans"
+        },
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        }
+      ]
+    },
+    {
+      "pest_name": "Phyllocoptes_oleiverus_ashmead",
+      "pesticides": [
+        {
+          "name": "Bifenazate",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, safe for beneficial insects"
+        },
+        {
+          "name": "Abamectin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        },
+        {
+          "name": "Spiromesifen",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, low toxicity"
+        }
+      ]
+    },
+    {
+      "pest_name": "Pieris_canidia",
+      "pesticides": [
+        {
+          "name": "Bacillus thuringiensis",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Safe for humans, avoid overuse near beneficial insects"
+        },
+        {
+          "name": "Cypermethrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Avoid water sources, wear mask, toxic to fish"
+        },
+        {
+          "name": "Neem oil",
+          "dosage": "5-10 ml/L",
+          "safety_precautions": "Safe for humans, avoid overuse, organic option"
+        }
+      ]
+    },
+    {
+      "pest_name": "Pod_borer",
+      "pesticides": [
+        {
+          "name": "Emamectin benzoate",
+          "dosage": "0.2-0.5 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity to humans"
+        },
+        {
+          "name": "Indoxacarb",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, low toxicity"
+        },
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        }
+      ]
+    },
+    {
+      "pest_name": "Polyphagotars_onemus_latus",
+      "pesticides": [
+        {
+          "name": "Acetamiprid",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Use protective gear, avoid spraying in windy conditions"
+        },
+        {
+          "name": "Bifenazate",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, safe for beneficial insects"
+        },
+        {
+          "name": "Spiromesifen",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, low toxicity"
+        }
+      ]
+    },
+    {
+      "pest_name": "Potosiabre_vitarsis",
+      "pesticides": [
+        {
+          "name": "Chlorantraniliprole",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Low toxicity, wear protective gear, avoid overuse"
+        },
+        {
+          "name": "Emamectin benzoate",
+          "dosage": "0.2-0.5 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity to humans"
+        },
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        }
+      ]
+    },
+    {
+      "pest_name": "Prodenia_litura",
+      "pesticides": [
+        {
+          "name": "Chlorantraniliprole",
+          "dosage": "0.2-0.5 ml/L",
+          "safety_precautions": "Low toxicity, wear protective gear, avoid overuse"
+        },
+        {
+          "name": "Emamectin benzoate",
+          "dosage": "0.2-0.5 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, low toxicity to humans"
+        },
+        {
+          "name": "Spinosad",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        }
+      ]
+    },
+    {
+      "pest_name": "Pseudococcus_comstockiKuwana",
+      "pesticides": [
+        {
+          "name": "Acetamiprid",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Use protective gear, avoid spraying in windy conditions"
+        },
+        {
+          "name": "Bifenthrin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid water sources, toxic to fish"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+      ]
+    },
+    {
+      "pest_name": "red_spider",
+      "pesticides": [
+        {
+          "name": "Abamectin",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        },
+        {
+          "name": "Bifenazate",
+          "dosage": "0.5-1 g/L",
+          "safety_precautions": "Wear gloves, avoid inhalation, safe for beneficial insects"
+        },
+        {
+          "name": "Spiromesifen",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, low toxicity"
+        }
+      ]
+    },
+    {
+      "pest_name": "Rhytidodera_bowrinii_white",
+      "pesticides": [
+        {
+          "name": "Acephate",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Wear protective clothing, avoid inhalation, keep away from food"
+        },
+        {
+          "name": "Imidacloprid",
+          "dosage": "0.5-1 ml/L",
+          "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+          "name": "Methomyl",
+          "dosage": "1-2 g/L",
+          "safety_precautions": "Highly toxic, wear respirator, avoid skin contact"
+        }
+      ]
+    },
+    
+    {
+        "pest_name": "rice_gall_midge",
+        "pesticides": [
+        {
+            "name": "Cartap hydrochloride",
+            "dosage": "1-2 g/L",
+            "safety_precautions": "Wear gloves, avoid inhalation, toxic to fish"
+        },
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+             "name": "Fipronil",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Highly toxic to bees, wear mask, avoid water bodies"
+        }
+        ]
+    },
+    {
+        "pest_name": "rice_leaf_caterpillar",
+        "pesticides": [
+        {
+            "name": "Cartap hydrochloride",
+            "dosage": "1-2 g/L",
+            "safety_precautions": "Wear gloves, avoid inhalation, toxic to fish"
+        },
+        {
+            "name": "Chlorantraniliprole",
+            "dosage": "0.2-0.5 ml/L",
+            "safety_precautions": "Low toxicity, wear protective gear, avoid overuse"
+        },
+        {
+            "name": "Emamectin benzoate",
+            "dosage": "0.2-0.5 g/L",
+            "safety_precautions": "Wear gloves, avoid inhalation, low toxicity to humans"
+        }
+        ]
+    },
+    {
+        "pest_name": "rice_leaf_roller",
+        "pesticides": [
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Cypermethrin",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Avoid water sources, wear mask, toxic to fish"
+        },
+        {
+            "name": "Indoxacarb",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, low toxicity"
+        }
+        ]
+    },
+    {
+        "pest_name": "rice_leafhopper",
+        "pesticides": [
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Thiamethoxam",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        },
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        }
+        ]
+    },
+    {
+        "pest_name": "rice_shell_pest",
+        "pesticides": [
+        {
+            "name": "Cartap",
+            "dosage": "1-2 g/L",
+            "safety_precautions": "Wear gloves, avoid inhalation, toxic to aquatic life"
+        },
+        {
+            "name": "Methomyl",
+            "dosage": "1-2 g/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid skin contact"
+        },
+        {
+            "name": "Carbaryl",
+            "dosage": "2-4 g/L",
+            "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        }
+        ]
+    },
+    {
+        "pest_name": "RiceStemfly",
+        "pesticides": [
+        {
+            "name": "Neonicotinoids",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, toxic to bees"
+        },
+        {
+            "name": "Fipronil",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Highly toxic to bees, wear mask, avoid water bodies"
+        },
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+        ]
+    },
+    {
+        "pest_name": "rice_water_weevil",
+        "pesticides": [
+        {
+            "name": "Carbofuran",
+            "dosage": "2-3 g/L",
+            "safety_precautions": "Highly toxic, wear gloves, avoid water bodies"
+        },
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+        ]
+    },
+    {
+        "pest_name": "Salurnis_marginellaGuerr",
+        "pesticides": [
+        {
+            "name": "Methomyl",
+            "dosage": "1-2 g/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid skin contact"
+        },
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Carbaryl",
+            "dosage": "2-4 g/L",
+            "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        }
+        ]
+    },
+    {
+        "pest_name": "sawfly",
+        "pesticides": [
+        {
+            "name": "Malathion",
+            "dosage": "1.5-3 ml/L",
+            "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        },
+        {
+            "name": "Carbaryl",
+            "dosage": "2-4 g/L",
+            "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+            "name": "Cypermethrin",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Avoid water sources, wear mask, toxic to fish"
+        }
+        ]
+    },
+    {
+        "pest_name": "Scirtothrips_dorsalisHood",
+        "pesticides": [
+        {
+            "name": "Spinosad",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        },
+        {
+            "name": "Abamectin",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        },
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+        ]
+    },
+    {
+        "pest_name": "sericaorient_alismots_chulsky",
+        "pesticides": [
+        {
+            "name": "Thiamethoxam",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        },
+        {
+            "name": "Clothianidin",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Wear protective gear, avoid spraying near bees"
+        },
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+        ]
+    },
+    {
+        "pest_name": "small_brown_plant_hopper",
+        "pesticides": [
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Acephate",
+            "dosage": "1-2 g/L",
+            "safety_precautions": "Wear protective clothing, avoid inhalation, keep away from food"
+        }
+        ]
+    },
+    {
+        "pest_name": "SpilosomaObliqua",
+        "pesticides": [
+        {
+            "name": "Bacillus thuringiensis",
+            "dosage": "1-2 g/L",
+            "safety_precautions": "Safe for humans, avoid overuse near beneficial insects"
+        },
+        {
+            "name": "Cypermethrin",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Avoid water sources, wear mask, toxic to fish"
+        },
+        {
+            "name": "Chlorantraniliprole",
+            "dosage": "0.2-0.5 ml/L",
+            "safety_precautions": "Low toxicity, wear protective gear, avoid overuse"
+        }
+        ]
+    },
+    {
+        "pest_name": "stem_borer",
+        "pesticides": [
+        {
+            "name": "Neonicotinoids",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, toxic to bees"
+        },
+        {
+            "name": "Pyrethroids",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear mask, avoid water sources, toxic to fish"
+        },
+        {
+            "name": "Chlorantraniliprole",
+            "dosage": "0.2-0.5 ml/L",
+            "safety_precautions": "Low toxicity, wear protective gear, avoid overuse"
+        }
+        ]
+    },
+    {
+        "pest_name": "Sternochetus_frigidus",
+        "pesticides": [
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Carbaryl",
+            "dosage": "2-4 g/L",
+            "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        },
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+        ]
+    },
+    {
+        "pest_name": "tarnished_plant_bug",
+        "pesticides": [
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Lambda-cyhalothrin",
+            "dosage": "0.2-0.5 ml/L",
+            "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        },
+        {
+            "name": "Methomyl",
+            "dosage": "1-2 g/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid skin contact"
+        }
+        ]
+    },
+    {
+        "pest_name": "Termite",
+        "pesticides": [
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Fipronil",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Highly toxic to bees, wear mask, avoid water bodies"
+        }
+        ]
+    },
+    {
+        "pest_name": "Termite_odontotermes(Rambur)",
+        "pesticides": [
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Fipronil",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Highly toxic to bees, wear mask, avoid water bodies"
+        }
+        ]
+    },
+    {
+        "pest_name": "Tetradacus_cBactrocera_minax",
+        "pesticides": [
+        {
+            "name": "Malathion",
+            "dosage": "1.5-3 ml/L",
+            "safety_precautions": "Use gloves, avoid contact with skin, ventilate area"
+        },
+        {
+            "name": "Spinosad",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        },
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+        ]
+    },
+    {
+        "pest_name": "therioaphis_maculataBuckton",
+        "pesticides": [
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Acetamiprid",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Use protective gear, avoid spraying in windy conditions"
+        },
+        {
+            "name": "Thiamethoxam",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        }
+        ]
+    },
+    {
+        "pest_name": "Thrips",
+        "pesticides": [
+        {
+            "name": "Spinosad",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        },
+        {
+            "name": "Abamectin",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        },
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+        ]
+    },
+    {
+        "pest_name": "Toxoptera_aurantii",
+        "pesticides": [
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Thiamethoxam",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        },
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        }
+        ]
+    },
+    {
+        "pest_name": "Toxoptera_citricidus",
+        "pesticides": [
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Thiamethoxam",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        },
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        }
+        ]
+    },
+    {
+        "pest_name": "Trialeurodes_vaporariorum",
+        "pesticides": [
+        {
+            "name": "Neonicotinoids",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, toxic to bees"
+        },
+        {
+            "name": "Pyrethroids",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear mask, avoid water sources, toxic to fish"
+        },
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+        ]
+    },
+    {
+        "pest_name": "Unaspis_yanonensis",
+        "pesticides": [
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Abamectin",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        }
+        ]
+    },
+    {
+        "pest_name": "Viteus_vitifoliae",
+        "pesticides": [
+        {
+            "name": "Pyrethroids",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear mask, avoid water sources, toxic to fish"
+        },
+        {
+            "name": "Organophosphates",
+            "dosage": "1-2 ml/L",
+            "safety_precautions": "Wear respirator, avoid skin contact, toxic to wildlife"
+        },
+        {
+            "name": "Neonicotinoids",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, toxic to bees"
+        }
+        ]
+    },
+    {
+        "pest_name": "wheat_blossom_midge",
+        "pesticides": [
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Lambda-cyhalothrin",
+            "dosage": "0.2-0.5 ml/L",
+            "safety_precautions": "Avoid skin contact, use in well-ventilated areas"
+        }
+        ]
+    },
+    {
+        "pest_name": "wheat_phloeothrips",
+        "pesticides": [
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Thiamethoxam",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        },
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        }
+        ]
+    },
+    {
+        "pest_name": "wheat_sawfly",
+        "pesticides": [
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Acetamiprid",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Use protective gear, avoid spraying in windy conditions"
+        },
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        }
+        ]
+    },
+    {
+        "pest_name": "white_backed_plant_hopper",
+        "pesticides": [
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Thiamethoxam",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        },
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        }
+        ]
+    },
+    {
+        "pest_name": "white_margined_moth",
+        "pesticides": [
+        {
+            "name": "Chlorantraniliprole",
+            "dosage": "0.2-0.5 ml/L",
+            "safety_precautions": "Low toxicity, wear protective gear, avoid overuse"
+        },
+        {
+            "name": "Spinosad",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear mask, avoid water bodies, safe for beneficial insects"
+        },
+        {
+            "name": "Bacillus thuringiensis",
+            "dosage": "1-2 g/L",
+            "safety_precautions": "Safe for humans, avoid overuse near beneficial insects"
+        }
+        ]
+    },
+    {
+        "pest_name": "whitefly",
+        "pesticides": [
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Thiamethoxam",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Avoid contact with skin, do not apply near pollinators"
+        },
+        {
+            "name": "Pyrethroids",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear mask, avoid water sources, toxic to fish"
+        }
+        ]
+    },
+    {
+        "pest_name": "wireworm",
+        "pesticides": [
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Imidacloprid",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, do not apply near bees"
+        },
+        {
+            "name": "Fipronil",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Highly toxic to bees, wear mask, avoid water bodies"
+        }
+        ]
+    },
+    {
+        "pest_name": "Xylotrechus",
+        "pesticides": [
+        {
+            "name": "Methoxyfenozide",
+            "dosage": "1-2 ml/L",
+            "safety_precautions": "Low toxicity, wear gloves, avoid overuse"
+        },
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Fipronil",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Highly toxic to bees, wear mask, avoid water bodies"
+        }
+        ]
+    },
+    {
+        "pest_name": "yellow_cutworm",
+        "pesticides": [
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Methomyl",
+            "dosage": "1-2 g/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid skin contact"
+        },
+        {
+            "name": "Carbaryl",
+            "dosage": "2-4 g/L",
+            "safety_precautions": "Wear gloves, avoid inhalation, keep away from pets"
+        }
+        ]
+    },
+    {
+        "pest_name": "Yellow_Mite",
+        "pesticides": [
+        {
+            "name": "Spiromesifen",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, low toxicity"
+        },
+        {
+            "name": "Abamectin",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear mask, avoid skin contact, toxic to aquatic life"
+        },
+        {
+            "name": "Fenazaquin",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Wear gloves, avoid inhalation, toxic to fish"
+        }
+        ]
+    },
+    {
+        "pest_name": "yellow_rice_borer",
+        "pesticides": [
+        {
+            "name": "Chlorpyrifos",
+            "dosage": "2-3 ml/L",
+            "safety_precautions": "Highly toxic, wear respirator, avoid water contamination"
+        },
+        {
+            "name": "Neonicotinoids",
+            "dosage": "0.5-1 g/L",
+            "safety_precautions": "Wear gloves, avoid eye contact, toxic to bees"
+        },
+        {
+            "name": "Fipronil",
+            "dosage": "0.5-1 ml/L",
+            "safety_precautions": "Highly toxic to bees, wear mask, avoid water bodies"
+        }
+        ]
+    }
+    ]
